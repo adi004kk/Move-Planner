@@ -1,0 +1,9 @@
+# MovePlanner Robots.txt
+# User-agent: Allow all search engine bots for indexing and discovery
+User-agent: *
+Allow: /
+Disallow: /settings
+Disallow: /profile
+
+# Point directly to primary XML sitemap
+Sitemap: https://ais-pre-7obji65dnr7bronprclnzk-782642676757.asia-northeast1.run.app/sitemap.xml

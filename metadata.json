@@ -1,0 +1,6 @@
+{
+  "name": "MovePlanner",
+  "description": "The ultimate all-in-one travel planning platform. Plan smarter, explore more, and travel better with destination guides, hotels, food, attractions, interactive maps, and smart itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
